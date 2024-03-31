@@ -11,6 +11,7 @@ I breathe life into Discord servers with my bot development skills, primarily us
     🌱 Always evolving with the tech.
     ✨ Passionate about community building through bots.
 
-    ![App Screenshot](https://files.catbox.moe/brmkn5.png)
 
 Interested in collaboration or have questions? Let's chat!
+
+![App Screenshot](https://files.catbox.moe/brmkn5.png)
