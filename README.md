@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey,+I'm+Lama!+%F0%9F%91%8B;Founder+of+fake.legal;Serving+1,000,000%2B+Users;Python+%26+Backend+Dev" alt="Typing SVG" />
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRreXp4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/cEYFeDB8PpXqYekMudX/giphy.gif" width="350" alt="Zuck Meme" />
 <br/>
 
 <a href="https://fake.legal">
@@ -17,7 +17,7 @@
 
 ### 🚀 Quick Facts
 
-I am a developer and entrepreneur obsessed with online privacy, inbox security, and building scalable web utilities. I successfully transitioned from developing engaging Discord bots to founding and scaling a high-traffic platform. 
+I am a developer and entrepreneur obsessed with online privacy, inbox security, and building scalable web utilities. Trying to be the next mark zuckerberg
 
 * 🛡️ **Current Focus:** Running and scaling **[fake.legal](https://fake.legal)**, a secure temporary email service.
 * 📈 **Major Milestone:** Proudly supporting a massive global community of **over 1,000,000 active users**.
