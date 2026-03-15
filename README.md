@@ -7,10 +7,7 @@
 <a href="https://fake.legal">
   <img src="https://img.shields.io/badge/Owner-fake.legal-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="fake.legal">
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-<a href="#">
+<a href="https://discord.gg/zHx7BgwGkX">
   <img src="https://img.shields.io/badge/Discord-Let's_Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
@@ -31,6 +28,12 @@ I am a developer and entrepreneur obsessed with online privacy, inbox security, 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo" title="JavaScript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" title="HTML5" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo" title="Debian" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux" />
   <img width="15" />
