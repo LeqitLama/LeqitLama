@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey,+I'm+Lama!+%F0%9F%91%8B;Founder+of+fake.legal;Serving+1,000,000%2B+Users;Python+%26+Backend+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey,+I'm+Lama!+%F0%9F%91%8B;Founder+of+SeeReal.email;Ex-Dev+@+fake.legal+(100M%2B+Users);Blocking+disposable+inboxes+now" alt="Typing SVG" />
 <br/>
 
-<a href="https://fake.legal">
-  <img src="https://img.shields.io/badge/Owner-fake.legal-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="fake.legal">
+<a href="https://seereal.email">
+  <img src="https://img.shields.io/badge/Founder-SeeReal.email-00C7B7?style=for-the-badge&logo=shield&logoColor=white" alt="SeeReal.email">
 </a>
 <a href="https://discord.gg/zHx7BgwGkX">
   <img src="https://img.shields.io/badge/Discord-Let's_Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
@@ -16,10 +16,11 @@
 
 ### 🚀 Quick Facts
 
-I am a developer and entrepreneur obsessed with online privacy, inbox security, and building scalable web utilities. Trying to be the next mark zuckerberg
+I spent years helping people bypass sign-up gates—now I build the walls that stop them. Poacher turned gamekeeper.
 
-* 🛡️ **Current Focus:** Running and scaling **[fake.legal](https://fake.legal)**, a secure temporary email service.
-* 📈 **Major Milestone:** Proudly supporting a massive global community of **over 1,000,000 active users**.
+* 🛡️ **Current Focus:** Building **[SeeReal.email](https://seereal.email)**, a real-time API and engine detecting and blocking temporary, burner, and disposable mailboxes.
+* 🔄 **The Pivot:** Former core developer at **fake.legal**, a temp mail provider that scaled to **over 100,000,000 users**.
+* 🎯 **The Mission:** Using insider knowledge of burner infrastructure to protect platforms from spam, multi-accounting, and fraud.
 
 ---
 
@@ -50,5 +51,5 @@ I am a developer and entrepreneur obsessed with online privacy, inbox security, 
 <br/>
 
 <div align="center">
-  <i>"Building a cleaner, safer internet (or something like that lol)"</i>
+  <i>"I built the systems that bypassed verification. Now I build the systems that catch them."</i>
 </div>
